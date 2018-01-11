@@ -1,0 +1,12 @@
+﻿Reactive-Streams:
+https://data-artisans.com/what-is-stream-processing
+https://blog.griddynamics.com/what-is-in-stream-processing/
+
+Stream processing is the processing of data in motion, or in other words, computing on data directly as it is produced or received. The majority of data are born as continuous streams: sensor events, user activity on a website, financial trades, and so on – all these data are created as a series of events over time.
+
+Observables:
+
+In Reactive programming Observer or Consumer or Subscriber subscribes to an Observalbe. An Observable is responsible for emiting items or events. An Observer or Consumer becomes Subcriber when it subcribes(showing interst in listing items or events emitted by Observable) to an observable.
+
+Operator: Allows linking one observable to another observable and change the behaviour of emitting items at run time.
+
