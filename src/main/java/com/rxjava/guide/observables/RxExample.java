@@ -1,4 +1,4 @@
-package com.rxjava.guide.obserables;
+package com.rxjava.guide.observables;
 
 public interface RxExample {
     public void displayNotes();

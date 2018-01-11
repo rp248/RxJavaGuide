@@ -1,4 +1,4 @@
-package com.rxjava.guide.obserables;
+package com.rxjava.guide.observables;
 
 import com.rxjava.guide.MockApi;
 import com.rxjava.guide.MockApiListener;
